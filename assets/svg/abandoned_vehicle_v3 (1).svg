@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 70">
+  <rect x="5" y="35" width="90" height="25" rx="5" fill="none" stroke="currentColor" stroke-width="3"/>
+  <path d="M18,35 Q24,15 34,13 L66,13 Q76,15 82,35" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="22" cy="62" r="8" fill="none" stroke="currentColor" stroke-width="3"/>
+  <circle cx="22" cy="62" r="3" fill="none" stroke="currentColor" stroke-width="3"/>
+  <circle cx="78" cy="62" r="8" fill="none" stroke="currentColor" stroke-width="3"/>
+  <circle cx="78" cy="62" r="3" fill="none" stroke="currentColor" stroke-width="3"/>
+  <!-- cracks -->
+  <line x1="46" y1="15" x2="43" y2="25" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <line x1="43" y1="25" x2="38" y2="21" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <line x1="43" y1="25" x2="45" y2="32" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <line x1="43" y1="25" x2="50" y2="22" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="22" x2="56" y2="27" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <line x1="50" y1="22" x2="53" y2="16" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  <line x1="38" y1="21" x2="35" y2="26" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 80">
+  <rect x="5" y="5" width="8" height="70" rx="2" fill="none" stroke="currentColor" stroke-width="3"/>
+  <rect x="87" y="5" width="8" height="70" rx="2" fill="none" stroke="currentColor" stroke-width="3"/>
+  <rect x="5" y="10" width="90" height="22" rx="4" fill="none" stroke="currentColor" stroke-width="3"/>
+  <rect x="5" y="48" width="90" height="22" rx="4" fill="none" stroke="currentColor" stroke-width="3"/>
+  <clipPath id="b1"><rect x="6" y="11" width="88" height="20"/></clipPath>
+  <g clip-path="url(#b1)">
+    <line x1="18" y1="10" x2="5" y2="32" stroke="currentColor" stroke-width="3"/>
+    <line x1="35" y1="10" x2="22" y2="32" stroke="currentColor" stroke-width="3"/>
+    <line x1="52" y1="10" x2="39" y2="32" stroke="currentColor" stroke-width="3"/>
+    <line x1="69" y1="10" x2="56" y2="32" stroke="currentColor" stroke-width="3"/>
+    <line x1="86" y1="10" x2="73" y2="32" stroke="currentColor" stroke-width="3"/>
+    <line x1="103" y1="10" x2="90" y2="32" stroke="currentColor" stroke-width="3"/>
+  </g>
+  <clipPath id="b2"><rect x="6" y="49" width="88" height="20"/></clipPath>
+  <g clip-path="url(#b2)">
+    <line x1="18" y1="48" x2="5" y2="70" stroke="currentColor" stroke-width="3"/>
+    <line x1="35" y1="48" x2="22" y2="70" stroke="currentColor" stroke-width="3"/>
+    <line x1="52" y1="48" x2="39" y2="70" stroke="currentColor" stroke-width="3"/>
+    <line x1="69" y1="48" x2="56" y2="70" stroke="currentColor" stroke-width="3"/>
+    <line x1="86" y1="48" x2="73" y2="70" stroke="currentColor" stroke-width="3"/>
+    <line x1="103" y1="48" x2="90" y2="70" stroke="currentColor" stroke-width="3"/>
+  </g>
+</svg>

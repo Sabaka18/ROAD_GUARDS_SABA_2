@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 104.31">
+  <!-- Outer irregular pothole edge -->
+  <path d="M18,30 Q30,15 50,18 Q70,15 82,30 Q92,42 90,58 Q92,75 78,85 Q65,96 50,94 Q35,96 22,85 Q8,75 10,58 Q8,42 18,30Z" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Inner dashed depth -->
+  <path d="M26,35 Q38,22 50,24 Q62,22 74,35 Q83,45 81,58 Q83,70 72,79 Q62,88 50,86 Q38,88 28,79 Q17,70 19,58 Q17,45 26,35Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6,4"/>
+</svg>
